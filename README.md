@@ -4,7 +4,6 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Cassius.<br>
-        Hahaha~~~<br>
     </i><br>
     <a href="https://cassius0924.github.io">
         <img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=Github&logoColor=white" alt="website">
@@ -42,14 +41,14 @@
 
 <b>
 <details>
-<p align="center">
+<p align="left">
   <a href="https://github.com/cassius0924">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassius0924&exclude_repo=Cassius0924.github.io&hide=css,html&card_width=699&hide_border=true&theme=transparent"
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/cassius0924">
-    <img src="https://github-readme-stats.vercel.app/api?username=cassius0924&card_width=699&&hide_border=true&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api?username=cassius0924&card_width=699&hide_border=true&theme=transparent">
   </a>
 </p>
 </details>
