@@ -18,7 +18,7 @@
 
 
 ### Languages
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/cassius0924)
+[![Golang](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/cassius0924)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/cassius0924)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/cassius0924)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/cassius0924)
