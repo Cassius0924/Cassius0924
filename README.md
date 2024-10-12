@@ -41,6 +41,7 @@
 
 <b>
 <details>
+<summary>CLICK here for details</summary>
 <p align="left">
   <a href="https://github.com/cassius0924">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassius0924&exclude_repo=Cassius0924.github.io&hide=css,html&card_width=500&hide_border=true&theme=transparent"
