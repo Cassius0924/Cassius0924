@@ -44,24 +44,13 @@
 <summary>CLICK here for details</summary>
 <p align="left">
   <a href="https://github.com/cassius0924">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassius0924&exclude_repo=Cassius0924.github.io&hide=css,html&card_width=500&hide_border=true&theme=transparent"
+    <img src="https://githubstats.cassdev.com/api/top-langs/?username=cassius0924&exclude_repo=Cassius0924.github.io&hide=css,html&card_width=500&hide_border=true&theme=transparent"
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/cassius0924">
-    <img src="https://github-readme-stats.vercel.app/api?username=cassius0924&card_width=500&hide_border=true&theme=transparent">
+    <img src="https://githubstats.cassdev.com/api?username=cassius0924&card_width=500&hide_border=true&theme=transparent">
   </a>
 </p>
 </details>
 </b>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
